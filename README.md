@@ -1,2 +1,2 @@
-# project-power-gym
+# github-pages-demo
 Hello World!
